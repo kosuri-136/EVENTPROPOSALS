@@ -1,0 +1,213 @@
+#one {
+  position: relative;
+  top: 15px;
+  left: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-image: initial;
+  width: 296px;
+  height: 380px;
+  margin-left: 20px;
+}
+#two {
+  position: relative;
+  top: 15px;
+  left: 24px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-image: initial;
+  width: 520px;
+  height: 380px;
+}
+
+#three {
+  position: relative;
+  top: 15px;
+  left: 50px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-image: initial;
+  width: 304px;
+  height: 380px;
+}
+#album {
+  height: 32px;
+  width: 71px;
+}
+#four {
+  position: relative;
+  top: 1px;
+  left: 0;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-image: initial;
+  width: 86px;
+  height: 80px;
+  /* background: transparent url("../../../images/icons8-filter-64.png") 0% 0% no-repeat
+    padding-box; */
+  border-radius: 2px;
+  opacity: 1;
+}
+
+#five {
+  position: relative;
+  top: 10px;
+  left: 0;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-image: initial;
+  width: 86px;
+  height: 80px;
+  /* background: transparent url("../../../images/icons8-filter-64.png") 0% 0% no-repeat
+    padding-box; */
+  border-radius: 2px;
+  opacity: 1;
+}
+
+#six {
+  position: absolute;
+  top: 23px;
+  left: 101px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-image: initial;
+  width: 86px;
+  height: 80px;
+  /* background: transparent url("../../../images/icons8-filter-64.png") 0% 0% no-repeat
+    padding-box; */
+  border-radius: 2px;
+  opacity: 1;
+}
+
+#seven {
+  position: absolute;
+  top: 117px;
+  left: 101px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-image: initial;
+  width: 86px;
+  height: 80px;
+  /* background: transparent url("../../../images/icons8-filter-64.png") 0% 0% no-repeat
+    padding-box; */
+  border-radius: 2px;
+  opacity: 1;
+}
+.prop-details{
+  width: 100%;
+}
+
+#eight {
+  position: absolute;
+  top: 23px;
+  left: 203px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-image: initial;
+  width: 86px;
+  height: 80px;
+  /* background: transparent url("../../../images/icons8-filter-64.png") 0% 0% no-repeat
+    padding-box; */
+  border-radius: 2px;
+  opacity: 1;
+}
+#nine {
+  position: absolute;
+  top: 118px;
+  left: 203px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-image: initial;
+  width: 86px;
+  height: 80px;
+  /* background: transparent url("../../../images/icons8-filter-64.png") 0% 0% no-repeat
+    padding-box; */
+  border-radius: 2px;
+  opacity: 1;
+}
+#ten {
+  position: absolute;
+  top: 0px;
+  left: 321px;
+  width: 524px;
+  height: 198px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-image: initial;
+}
+.ten-grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+#eleven {
+  position: absolute;
+  top: 0px;
+  left: 874px;
+  width: 127px;
+  height: 198px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-image: initial;
+}
+
+.proposaldetailtop {
+  display: flex;
+}
+
+.proposaldetailcontainer {
+  width: 949px;
+  margin: 30px auto;
+  height: 100%;
+}
+
+.line {
+  border-top: 2px solid #e1e0e0;
+}
+.select-btn {
+  margin: 0px 0px 0px 902px;
+}
+.one-img > img {
+  width: 100%;
+  height: 100%;
+}
+
+.one-name {
+  position: relative;
+  top: 25px;
+  left: 18px;
+
+}
+
+.one-email {
+  position: relative;
+    top: 22px;
+    left: 18px;
+}
+
+.one-date {
+  position: relative;
+    top: 23px;
+    left: 18px;
+}
+.event-type {
+  position: relative;
+  top: 26px;
+  left: 19px;
+}
+.event-class {
+  position: relative;
+  top: -36px;
+  left: 179px;
+}

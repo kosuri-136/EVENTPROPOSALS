@@ -1,0 +1,90 @@
+.form-box3vr {
+  /* display: flex; */
+    position: absolute;
+    top: 40px;
+    left: 900px;
+    width: 320px;
+    height: 498px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border-radius: 29px;
+    opacity: 1;
+  }
+  
+  .topvr {
+    display: flex;
+    justify-content: space-around;
+    font: normal normal bold 16px/22px Open Sans;
+    margin: 20px;
+    border-bottom: 1px solid rgb(213, 207, 207);
+  }
+  
+  .headingvr {
+    color: #1b2734;
+    margin-left: 25px;
+    margin-top: 5px;
+  }
+  .inputvr {
+  
+    font-size: large;
+    padding: 2px;
+    margin-top:1px;
+    margin-left: 25px;
+   
+  }
+
+  .forget {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 40px;
+    margin-top: 30px;
+  }
+  .regfootervr {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+  }
+  
+ 
+  
+  .Logo{
+    color: white;
+    font-size: 32px;
+    margin: 15px 40px;
+}
+
+.Textvr{
+    color: BLACK;
+    font-size: 55px;
+    position: absolute;
+    top: 190px;
+    left: 85px;
+}
+  
+  .regbuttonvr {
+      width: 100px;
+      height: 40px;
+      background: #4e94f4 0% 0% no-repeat padding-box;
+      border-radius: 8px;
+      opacity: 1;
+      color: #ffffff;
+      border: none;
+      /* margin: 0px 0px; */
+      position: relative;
+      top: 2px;
+      left: 17px;
+  }
+  
+  .regfootervr {
+    /* display: flex; */
+    /* justify-content: space-around; */
+    margin-top: 12px;
+  }
+  
+  .signinvr{
+      font-size: medium;
+      color: blue;
+      /* margin: 22px 25px; */
+      /* position: relative; */
+      margin-top: 9px;
+      margin-left: 0px;
+  }

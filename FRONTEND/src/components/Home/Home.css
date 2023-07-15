@@ -1,0 +1,12 @@
+.main {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background: transparent url('../../images/party-people-enjoy-concert-at-festival-summer-DHDMPWH.jpg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    z-index: -1;
+    background-size: cover; /* Adjusted */
+    background-attachment: fixed; /* Added */
+}

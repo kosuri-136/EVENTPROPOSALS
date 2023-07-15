@@ -1,0 +1,78 @@
+.form-box1uh{
+  position: absolute;
+  top: 40px;
+  left: 900px;
+  width: 320px;
+  height: 448px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 29px;
+  opacity: 1;
+}
+
+.topuh {
+  display: flex;
+  justify-content: space-around;
+  font: normal normal bold 16px/22px Open Sans;
+  margin: 20px;
+  border-bottom: 1px solid rgb(213, 207, 207);
+}
+
+.headinguh {
+  color: #1b2734;
+  margin-left: 25px;
+  margin-top: 5px;
+}
+.inputuh {
+
+  font-size: large;
+  padding: 2px;
+  margin-top: 10px;
+  margin-left: -24px;
+ 
+}
+
+.buttonuh {
+  width: 100px;
+  height: 40px;
+  background: #4e94f4 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  opacity: 1;
+  color: #ffffff;
+  border: none;
+  /* padding-top: -20px; */
+  
+}
+.forgetuh {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 40px;
+  margin-top: 20px;
+}
+.footeruh {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.createuh {
+  font-size: large;
+  margin-left: -29px;
+  margin-top: 1px;
+}
+
+.Logo{
+  color: white;
+  font-size: 32px;
+  margin: 15px 40px;
+}
+
+.Textuh{
+  color: black;
+    font-size: 55px;
+    position: absolute;
+    top: 190px;
+    left: 85px;
+}
+
+
+

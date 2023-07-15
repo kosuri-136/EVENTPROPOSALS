@@ -1,0 +1,175 @@
+.body{
+  width:100vw;
+}
+
+.nav {
+  width:100%;
+  display: flex;
+  color: #64a1f5;
+}
+
+.imgven {
+
+  position: absolute;
+  top: 17px;
+  left:1000px;
+  width: 36px;
+  height: 36px;
+  /* UI Properties */
+  background: transparent
+    url("../../../images/party-people-enjoy-concert-at-festival-summer-DHDMPWH.jpg")
+    0% 0% no-repeat padding-box;
+  opacity: 1;
+  border-radius: 25px;
+}
+
+.venlogo {
+  margin: 13px 64px;
+  font-size: xx-large;
+}
+
+.name {
+  position: absolute;
+  top: 24px;
+  left: 1040px;
+  width: 106px;
+  height: 22px;
+  text-align: left;
+  font: normal normal 600 16px/22px Open Sans;
+  letter-spacing: 0px;
+  color: #3b8cff;
+  opacity: 1;
+  font-size: larger;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  top: 29px;
+  left: 1000px;
+}
+.dropdown-content a {
+  color: rgb(255, 255, 255);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  
+}
+
+.dropdown-content a:hover {
+  background-color: #ff0000;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.propcontainer {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.container1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.proposal {
+  top: 140px;
+  left: 59px;
+  width: 117px;
+  height: 28px;
+  text-align: left;
+  /* font: normal normal medium 24px/29px Helvetica; */
+  letter-spacing: 0.72px;
+  color: #081838;
+  opacity: 1;
+  position: absolute;
+  font-size: 18px;
+}
+
+.searchbar {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  top: 78px;
+  left: 347px;
+  width: 119px;
+  height: 18px;
+  text-align: left;
+  font: normal normal normal 16px/18px Helvetica Neue;
+  letter-spacing: 0.48px;
+  color: #c7c7c7;
+  opacity: 1;
+}
+
+.searchbar > input {
+  position: absolute;
+  top: 0px;
+  left: 19px;
+  width: 119px;
+  height: 0px;
+  text-align: left;
+  font: normal normal normal 16px/18px Helvetica Neue;
+  letter-spacing: 0.48px;
+  color: #c7c7c7;
+  opacity: 1;
+  border: none;
+}
+.searchimg {
+  position: absolute;
+  top: 3px;
+  left: 0px;
+  width: 19px;
+  height: 19px;
+  background: transparent url("../../../images/search.jpg") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.filter{
+    display: flex;
+    /* flex-direction: column; */
+    position: absolute;
+    top: 109px;
+    left: 825px;
+}
+
+
+.filimg {
+    top: 145px;
+    left: 1506px;
+    width: 54px;
+    height: 57px;
+    background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAABwElEQVR4nO3av6tPYRwH8JffpIirDEqJUgaTgbIYDFalq7DxH8jGxMZik/I1KRkMFGUxGO5gMDAYSGRB+RnF5ejUuYvy5Z7vc855zrmfV33Gp8770znPrw4hhBBCGGMDzuJSz6p85ikJ3EfR0yqffSKLMJtBkLr1o8owkdsZBKlbtySwCe8yCDPfeo/NEjmYQaD51rTERhmE+t+6ogGr8TSDcP+qZ1ijIbvwPYOQ42b9PRp2JoOgf6vTWrA4083RAyzRki34mEHoufqMbVp2LIPgc3VUR65lEP6GDq3Fiw7Dv8J6Hdvb0YHpJ/bJxLkOGlCe97OxFDMthn+I5TKzFZ9aCP8F22XqRAsNOC5z1xsMf1MPrMPLBsK/TnXJ2Yb91TKVKvwvHNAzFxI24LweWoFHCcI/xko9tQNfJwj/DTv13KkJGlCO7b1VeFsj/Jtq7CDcrdGAOwbkao0GlGMGY1SjAeWYwRhFA8QbUMQnIOaAIiZBsQoUsQyKfUARGyGxEyxiKyzOAkUchgzrIjTVafB59RfKgmrALO7hEJYZmMtjgj/BSWw0YIf/CP2h+qd/twVkGhdxZEi3vSGEEIL++g1083f7Q5WisgAAAABJRU5ErkJggg==) 0% 0% no-repeat;
+    opacity: 1
+}
+
+.create-btn{
+    margin: 0px 40px;
+}
+
+.create-btn > button{
+    width: 127px;
+    height: 60px;
+    background: #4e94f4 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+    color: #ffffff;
+    border: none;
+    
+}
+
+.container2{
+  margin: 122px 25px;
+}
+
